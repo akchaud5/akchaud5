@@ -96,12 +96,7 @@ Educational platform for sharing programming tutorial videos, with features for 
 ### 🛒 [E-Commerce-Product-Catalog-API](https://github.com/akchaud5/E-Commerce-Product-Catalog-API)
 A RESTful API for managing product catalogs in e-commerce applications, built with Node.js, Express, and MongoDB, featuring authentication, search, and filtering capabilities.
 
-## 📫 Contact Information
-- 📧 Email: ankit.chaudhary@gatech.edu
-- 🔗 LinkedIn: [Ankit Chaudhary](https://linkedin.com/in/ankitchaudhary5)
-- 🌐 Website: [ankitchaudhary.dev](https://ankitchaudhary.dev)
 
----
 
 > The best way to predict the future is to implement it.
 
