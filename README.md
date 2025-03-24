@@ -10,7 +10,7 @@
 
 <!-- TO DO: add more details about research interests and machine learning specializations later -->
 
-Hi, I'm Ankit. I'm passionate about building machine learning systems and full-stack applications that solve real-world problems. My interests span AI, web development, and game design, with a focus on creating practical solutions that leverage cutting-edge technology.
+Hi, I'm Ayush. I'm passionate about building machine learning systems and full-stack applications that solve real-world problems. My interests span AI, web development, and game design, with a focus on creating practical solutions that leverage cutting-edge technology.
 
 <details open>
 <summary>My top programming languages</summary>
@@ -24,13 +24,6 @@ Hi, I'm Ankit. I'm passionate about building machine learning systems and full-s
 |     5| SQL        |
 
 </details>
-
-## 💼 Professional Journey
-- 🎓 Computer Science student at Georgia Tech specializing in Machine Learning
-- 🌱 Currently working on AI and Computer Vision projects
-- 💻 Former Software Engineering Intern at Salesforce and Microsoft
-- 🔭 Research Assistant at the ML Systems Lab
-- 📚 Teaching Assistant for Data Structures & Algorithms
 
 ## 🚀 This Month's Focus
 - 📊 Improving my Deepfake detection model with advanced CNN architectures
