@@ -86,8 +86,8 @@ Machine learning system that predicts soccer match outcomes using historical mat
 ### 📚 [codeTube](https://github.com/akchaud5/codeTube)
 Educational platform for sharing programming tutorial videos, with features for content organization, user interaction, and personalized learning paths.
 
-### 🛒 [E-Commerce-Product-Catalog-API](https://github.com/akchaud5/E-Commerce-Product-Catalog-API)
-A RESTful API for managing product catalogs in e-commerce applications, built with Node.js, Express, and MongoDB, featuring authentication, search, and filtering capabilities.
+### 🎮 [Connect Four](https://github.com/akchaud5/connect4)
+Web-based implementation of the classic Connect Four game with a smart AI opponent using minimax algorithm with alpha-beta pruning, real-time multiplayer using Socket.io, and game persistence features.
 
 
 
