@@ -86,8 +86,8 @@ Machine learning system that predicts soccer match outcomes using historical mat
 ### 📚 [codeTube](https://github.com/akchaud5/codeTube)
 Educational platform for sharing programming tutorial videos, with features for content organization, user interaction, and personalized learning paths.
 
-### 🎮 [Connect Four](https://github.com/akchaud5/connect4)
-Web-based implementation of the classic Connect Four game with a smart AI opponent using minimax algorithm with alpha-beta pruning, real-time multiplayer using Socket.io, and game persistence features.
+### 🔍 [Sentiment Analysis](https://github.com/akchaud5/sentiment-analysis)
+Natural language processing application that analyzes text data to determine emotional tone and sentiment, with capabilities for social media monitoring, customer feedback analysis, and brand perception tracking.
 
 
 
