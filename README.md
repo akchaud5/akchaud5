@@ -74,6 +74,9 @@ Hi, I'm Ayush. I'm passionate about building machine learning systems and full-s
 ### 🕵️ [Deepfake-detector](https://github.com/akchaud5/Deepfake-detector)
 Machine learning model that detects manipulated media content (deepfakes) using computer vision techniques and convolutional neural networks with high accuracy.
 
+### 🧠 [NeuralArchitect](https://github.com/akchaud5/NeuralArchitect)
+Educational platform for sharing programming tutorial videos, with features for content organization, user interaction, and personalized learning paths.
+
 ### 💬 [chit-chat](https://github.com/akchaud5/chit-chat)
 Real-time messaging application with features like user authentication, message history, and group conversations, built using Socket.io and React.
 
@@ -82,9 +85,6 @@ A 2D platformer game developed in Python using Pygame, featuring custom level de
 
 ### ⚽ [Soccer-Game-predictor](https://github.com/akchaud5/Soccer-Game-predictor)
 Machine learning system that predicts soccer match outcomes using historical match data, player statistics, and advanced statistical models.
-
-### 📚 [codeTube](https://github.com/akchaud5/codeTube)
-Educational platform for sharing programming tutorial videos, with features for content organization, user interaction, and personalized learning paths.
 
 ### 🔍 [Sentiment Analysis](https://github.com/akchaud5/sentiment-analysis)
 Natural language processing application that analyzes text data to determine emotional tone and sentiment, with capabilities for social media monitoring, customer feedback analysis, and brand perception tracking.
